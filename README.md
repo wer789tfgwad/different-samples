@@ -7,3 +7,5 @@
 
 
 ## index.html file created 
+
+## Added style.css file
