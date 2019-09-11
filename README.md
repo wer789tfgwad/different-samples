@@ -11,3 +11,4 @@
 ## Added style.css file
 
 ## Image added 
+## Deleted image file
