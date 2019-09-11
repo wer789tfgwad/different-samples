@@ -15,3 +15,4 @@
 ## Image file created
 
 ## text color created 
+## text added to css file 
