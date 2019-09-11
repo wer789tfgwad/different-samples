@@ -13,3 +13,5 @@
 ## Image added 
 ## Deleted image file
 ## Image file created
+
+# text color created 
