@@ -12,3 +12,4 @@
 
 ## Image added 
 ## Deleted image file
+## Image file created
