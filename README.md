@@ -7,6 +7,7 @@
 
 
 ## index.html file created 
+## Added title header and paragraph to index.html
 
 ## Added style.css file
 
