@@ -18,3 +18,4 @@
 ## text color created 
 ## text added to css file 
 ## Edited style.css file
+## Added text size and font
